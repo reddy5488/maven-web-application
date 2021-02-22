@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Reddy Prakash Releases Nexus Repository</name>
-	      <url>http://52.66.248.250:8081/repository/flipkart-Release/</url>
+	      <url>http://15.207.116.177:8081/repository/flipkart-Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Reddy Prakash Snapshot Nexus Repository </name>
-	      <url>http://52.66.248.250:8081/repository/flipkart-Snapshot/</url>
+	      <url>http://15.207.116.177:8081/repository/flipkart-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
